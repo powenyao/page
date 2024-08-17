@@ -11,38 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, 2024
-* M.S. in Computer Science, 2012
-* B.S. in Electrical Engineering, 2010
+* Ph.D in Computer Science, 2024 @ University of Southern California
+* M.S. in Computer Science, 2012 @ University of Southern California
+* B.S. in Electrical Engineering, 2010 @ University of California, Irvine
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Current: Tech Advisor for the Medical VR team at [Easley-Dunn Productions](https://easleydunnproductions.com/temp_index.html)
+* 2019-2023: Teaching Assistant for the AR/VR/MR course and Mobile Games course
+  * AR/VR/MR: Equipment Manager and Student Team Advisor
+  * Mobile Games: Restructured course & Introduced new Lectures focused on Innovation.
+* 2017-2018: Substitute Military Service @ Tourism Bureau - Planning and Research Division
+  * Served in the mandatory Substitute Military Service for the Republic of China
+* 2012-2017: Teaching Assistant & GamePipe Lab Manager
+  * Teaching Assistant for Networked Games, Networked Artificial Intelligence
+  * Teaching Assistant for Advanced Game Projects (2012-2014), Mobile Games (2015-2017)
+* 2012: Student Researcher @ USC - Information Sciences Institute
+  * Worked as the lead programmer and UI designer on [SEAVAK](https://youtu.be/45TnvCuu9l0): a multi-user data visualization & simulation tool designed for intelligence analysts
+* Summer 2011: Student Researcher @ USC - Gamepipe Lab							
+  * Worked on AI on [Cosmopolis](https://youtu.be/FSWAgmOD8q4), a Massively Multiplayer Online Game, for game research at USC. Implemented a navigation mesh for AI terrain traversal and behavior trees for AI behavior
 
 Publications
 ======
+  [Google Scholar Link](https://scholar.google.com/citations?user=BlSIZ14AAAAJ&hl=en)
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -58,7 +49,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
