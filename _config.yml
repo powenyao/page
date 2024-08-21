@@ -6,19 +6,28 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+#Powen: Useful Font Awesome Code https://fontawesome.com/
+#<i class="fa fa-link" aria-hidden="true"></i>
+#<i class="fa-regular fa-file" aria-hidden="true"></i>
+#<i class="fa-regular fa-file-pdf"></i>
+
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Powen's Page"
 title_separator          : "-"
 name                     : &name "Powen Yao"
 description              : &description "Intersection of Spatial User Interaction, Games, and Innovation"
-url                      : "https://powenyao.com" #"https://powenyao.github.io" # # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://powenyao.github.io"#"https://powenyao.com" #"https://powenyao.github.io" # # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/page" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
+#Powen: url, base url
+#https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
+#https://24ways.org/2013/get-started-with-github-pages/
 
 #Powen: Added to address the warning "No GitHub API authentication could be found."
 #https://github.com/github/pages-gem/issues/399
 github: [metadata]
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -216,7 +225,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  design:
+    output: true
+    permalink: /:collection/:path/  
+  hobbies:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:

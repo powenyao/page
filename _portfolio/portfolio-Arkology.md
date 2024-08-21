@@ -1,6 +1,6 @@
 ---
 title: "Arkology"
-excerpt: "<br/>2017 Virtual Reality Real-Time Strategy<br/><img src=\"/images/portfolio/Arkposter_Tokyo_compressed.jpg\" width=\"350\" height=\"500\">"
+excerpt: "<br/>2017 Virtual Reality Real-Time Strategy<br/><img src=\"../images/portfolio/Arkposter_Tokyo_compressed.jpg\" width=\"350\" height=\"500\">"
 collection: portfolio
 ---
 
@@ -19,7 +19,7 @@ Presented at Taipei Game Show, Intel University Game Showcase at GDC, and Tokyo 
 
 
 <p>Poster for GDC
-<br><img src='/images/portfolio/Arkposter_West_compressed.jpg' width="350" height="500">
+<br><img src='../../images/portfolio/Arkposter_West_compressed.jpg' width="350" height="500">
 
 <p>Poster for Tokyo Indie Fest
-<br><img src='/images/portfolio/Arkposter_Tokyo_compressed.jpg' width="350" height="500">
+<br><img src='../../images/portfolio/Arkposter_Tokyo_compressed.jpg' width="350" height="500">
