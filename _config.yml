@@ -17,6 +17,9 @@
 #Reference
 #https://github.com/staeiou/staeiou.github.io
 #https://stuartgeiger.com/teaching/COMM-106D-data-culture-wi23/
+#https://stuartgeiger.com/
+#https://staeiou.github.io/
+#<embed src="https://stuartgeiger.com/geiger-cv.pdf" type="application/pdf" width="100%"/>
 
 # Basic Site Settings
 locale                   : "en-US"
@@ -25,9 +28,9 @@ title_separator          : "-"
 name                     : &name "Powen Yao 姚博文"
 description              : &description "Intersection of Spatial User Interaction, Games, and Innovation"
 url                      : "https://powenyao.com" #"https://powenyao.github.io" # # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/page" # the subpath of your site, e.g. "/blog"
+baseurl                  : #"/page" # the subpath of your site, e.g. "/blog"
 #https://github.com/powenyao/page
-repository               : "powenyao/page.github.io"#"academicpages/academicpages.github.io"
+repository               : "powenyao/powenyao.github.io"#"academicpages/academicpages.github.io"
 #Powen: url, base url
 #https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 #https://24ways.org/2013/get-started-with-github-pages/

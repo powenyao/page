@@ -41,11 +41,10 @@ My autoludography, I suppose.
 * 2016-2017 - VR RTS Arkology
   * https://youtu.be/RtwCjpd6eRM
 * 2014-2015 - Toward the Stars
-  * 4 player cooperative game where players run a space ship and deal with various hazards. Made in Unreal Engine 4.
+  * 4 player cooperative game where players run a spaceship and deal with various hazards. Made in Unreal Engine 4.
   * https://www.youtube.com/watch?v=xTYO4FJvQT0
 * 2012 Spring - Sky RPG
 * 2011 Summer - Angry Soldiers
-  * 
 * 2011 Spring - Wind Game
   * A cooperative game where one player controls a platforming character and the other player use hand gestures through Kinect Camera to help. 
   * https://youtu.be/u2M5gRKXa5k
