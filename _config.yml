@@ -25,7 +25,7 @@ title_separator          : "-"
 name                     : &name "Powen Yao 姚博文"
 description              : &description "Intersection of Spatial User Interaction, Games, and Innovation"
 url                      : "https://powenyao.com" #"https://powenyao.github.io" # # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : #"/page" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/page" # the subpath of your site, e.g. "/blog"
 #https://github.com/powenyao/page
 repository               : "powenyao/page.github.io"#"academicpages/academicpages.github.io"
 #Powen: url, base url
