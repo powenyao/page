@@ -11,23 +11,32 @@
 #<i class="fa-regular fa-file" aria-hidden="true"></i>
 #<i class="fa-regular fa-file-pdf"></i>
 
+#Academic Pages is forked from Minimal Mistakes, references here:
+#https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-title
+
+#Reference
+#https://github.com/staeiou/staeiou.github.io
+#https://stuartgeiger.com/teaching/COMM-106D-data-culture-wi23/
+
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Powen's Page"
 title_separator          : "-"
-name                     : &name "Powen Yao"
+name                     : &name "Powen Yao 姚博文"
 description              : &description "Intersection of Spatial User Interaction, Games, and Innovation"
-url                      : "https://powenyao.github.io"#"https://powenyao.com" #"https://powenyao.github.io" # # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/page" # the subpath of your site, e.g. "/blog"
-repository               : #"academicpages/academicpages.github.io"
+url                      : "https://powenyao.com" #"https://powenyao.github.io" # # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : #"/page" # the subpath of your site, e.g. "/blog"
+#https://github.com/powenyao/page
+repository               : "powenyao/page.github.io"#"academicpages/academicpages.github.io"
 #Powen: url, base url
 #https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 #https://24ways.org/2013/get-started-with-github-pages/
 
 #Powen: Added to address the warning "No GitHub API authentication could be found."
 #https://github.com/github/pages-gem/issues/399
-github: [metadata]
+#github: [metadata]
 
+seo_description          : "Site for Powen Yao"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -35,7 +44,7 @@ github: [metadata]
 author:
   # Biographic information
   avatar           : "profile2.png"
-  name             : "Powen Yao"
+  name             : "Powen Yao 姚博文"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science Ph.D. at the intersection of spatial user interface, games, and innovation"
   location         : "Los Angeles, California"

@@ -9,6 +9,7 @@ collection: portfolio
 [Arkology Trailer 2017 05 09](https://youtu.be/KoWxXwPk2WE)
 
 <br>Role: Team Leader, Lead Design, Lead Programmer
+<br>Team: 
 <br>Duration; Jun 2016 - June 2017
 <br>Technology: Unity3D, HTC Vive
 
@@ -19,7 +20,7 @@ Presented at Taipei Game Show, Intel University Game Showcase at GDC, and Tokyo 
 
 
 <p>Poster for GDC
-<br><img src='../../images/portfolio/Arkposter_West_compressed.jpg' width="350" height="500">
+<br><img src='../../images/portfolio/Arkposter_West_Compressed.jpg' width="350" height="500">
 
 <p>Poster for Tokyo Indie Fest
 <br><img src='../../images/portfolio/Arkposter_Tokyo_compressed.jpg' width="350" height="500">
