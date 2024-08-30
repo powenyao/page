@@ -20,13 +20,17 @@
 #https://stuartgeiger.com/
 #https://staeiou.github.io/
 #<embed src="https://stuartgeiger.com/geiger-cv.pdf" type="application/pdf" width="100%"/>
+#Setting up Domain Name System
+#https://www.mloning.com/posts/configuring-custom-domain-with-github-pages-and-squarespace/
+#https://emilymdubois.medium.com/using-a-squarespace-domain-with-github-pages-438951d4f5b7
+#https://www.whatsmydns.net/
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Powen's Page"
+title                    : "Powen's Homepage"
 title_separator          : "-"
 name                     : &name "Powen Yao 姚博文"
-description              : &description "Intersection of Spatial User Interaction, Games, and Innovation"
+description              : &description "At the Intersection of Spatial User Interactions, Games, and Innovations"
 url                      : "https://powenyao.com" #"https://powenyao.github.io" # # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/page" # the subpath of your site, e.g. "/blog"
 #https://github.com/powenyao/page
@@ -46,14 +50,14 @@ seo_description          : "Site for Powen Yao"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png"
+  avatar           : "profile.png"
   name             : "Powen Yao 姚博文"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science Ph.D. at the intersection of spatial user interface, games, and innovation"
   location         : "Los Angeles, California"
   employer         : "Looking for Opportunities"
   uri              : # URL
-  email            : "powenyao@gmail.com" #"me@powenyao.com" 
+  email            : "me@powenyao.com" #"me@powenyao.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

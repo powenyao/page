@@ -1,6 +1,6 @@
 ---
 title: "SpellCrafter"
-excerpt: "<br/>2023 A game based on a spell projectile taxonomy for Global Game Jam 2023<br/><img src='../../images/portfolio/spellcrafter.png'>"
+excerpt: "<br/>2023 SpellCrafter - A game based on a spell projectile taxonomy for Global Game Jam 2023<br/><img src='../../images/portfolio/spellcrafter.png' width=\"500\">"
 collection: portfolio
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Arkology"
-excerpt: "<br/>2017 Virtual Reality Real-Time Strategy<br/><img src=\"../images/portfolio/Arkposter_Tokyo_compressed.jpg\" width=\"350\" height=\"500\">"
+excerpt: "<br/>Arkology - Virtual Reality Real-Time Strategy exploring Spatial User Interaction
+<br/><img src=\"../images/portfolio/Arkposter_Tokyo_compressed.jpg\" width=\"350\" height=\"500\">"
 collection: portfolio
 ---
 

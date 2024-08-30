@@ -1,6 +1,6 @@
 ---
 title: "XROSS UI"
-excerpt: "Extended Reality Operating System Spatial User Interface<br/><img src='../images/500x300.png'>"
+excerpt: "Extended Reality Operating System Spatial (XROSS) User Interface<br/><img src='../images/portfolio/vesconcept.jpg' width=\"500\">"
 collection: portfolio
 ---
 

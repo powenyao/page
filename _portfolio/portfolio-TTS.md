@@ -1,6 +1,7 @@
 ---
 title: "Toward the Stars"
-excerpt: "<br/>2015 <img src='../images/500x300.png'>"
+excerpt: "<br/>Toward the Stars - Networked Multiplayer Cooperative First Person Action Game in Unreal Engine 4
+<br/><img src='../images/portfolio/TtSLogo.jpg' width=\"500\">"
 collection: portfolio
 ---
 
@@ -12,5 +13,5 @@ collection: portfolio
 <br>Team: 30 
 <br>Technology: Unreal Engine 4
 
-Led a team of 30 people on a networked multiplayer action game as part of the Advanced Game Project class.
+Led a team of 30 people on a networked multiplayer action game as part of USC's Advanced Game Project class.
 Presented at USC GamePipe Tech showcase

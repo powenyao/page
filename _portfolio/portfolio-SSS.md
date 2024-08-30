@@ -1,5 +1,8 @@
 ---
 title: "School of Spatial Sorcery"
-excerpt: "<br/>Ongoing - Sandbox Environment for Exploration of Spatial User Interaction<br/><img src='../images/500x300.png'>"
+excerpt: "<br/>School of Spatial Sorcery - An Ongoing Sandbox Environment for Exploration of Spatial User Interactions
+<br/><img src='../images/portfolio/sss-teaser.png' width=\"500\">"
 collection: portfolio
 ---
+
+(Description goes here)

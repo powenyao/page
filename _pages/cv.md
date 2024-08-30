@@ -21,14 +21,14 @@ Work experience
 * 2019-2023: Teaching Assistant for the AR/VR/MR course and Mobile Games course
   * AR/VR/MR: Equipment Manager and Student Team Advisor
   * Mobile Games: Restructured course & Introduced new Lectures focused on Innovation.
-* 2017-2018: Substitute Military Service @ Tourism Bureau - Planning and Research Division
+* 2017-2018: Substitute Military Service @ [Tourism Bureau](https://eng.taiwan.net.tw/) - Planning and Research Division
   * Served in the mandatory Substitute Military Service for the Republic of China
 * 2012-2017: Teaching Assistant & GamePipe Lab Manager
   * Teaching Assistant for Networked Games, Networked Artificial Intelligence
   * Teaching Assistant for Advanced Game Projects (2012-2014), Mobile Games (2015-2017)
-* 2012: Student Researcher @ USC - Information Sciences Institute
+* 2012: Student Researcher @ USC - [Information Sciences Institute](https://www.isi.edu/)
   * Worked as the lead programmer and UI designer on [SEAVAK](https://youtu.be/45TnvCuu9l0): a multi-user data visualization & simulation tool designed for intelligence analysts
-* Summer 2011: Student Researcher @ USC - Gamepipe Lab							
+* Summer 2011: Student Researcher @ USC - [GamePipe Lab](https://mikezyda.com/USCGamePipe/)							
   * Worked on AI on [Cosmopolis](https://youtu.be/FSWAgmOD8q4), a Massively Multiplayer Online Game, for game research at USC. Implemented a navigation mesh for AI terrain traversal and behavior trees for AI behavior
 
 Publications
